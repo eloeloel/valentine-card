@@ -1,6 +1,7 @@
 .ricardo {
     display: flex;
     justify-content: center;
+    padding-top: 2rem;
 }
 
 .heart{
@@ -63,5 +64,3 @@
       transform: scale(0.6) rotate(-45deg);
     }
   }
-
-
